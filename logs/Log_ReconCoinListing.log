@@ -1,0 +1,6 @@
+21-11-21 23:03:33 	 DEBUG 	 recon_coin_listing.py - run_recon: 	 Recon started.
+21-11-21 23:03:36 	 DEBUG 	 strat_coin_listing.py - listen_for_new_listing: 	 Process started.
+21-11-21 23:03:37 	 DEBUG 	 recon_coin_listing.py - grab_price_data_all_exchanges: 	 Process started.
+21-11-28 22:09:16 	 DEBUG 	 recon_coin_listing.py - run_recon: 	 Recon started.
+21-11-28 22:09:20 	 DEBUG 	 strat_coin_listing.py - listen_for_new_listing: 	 Process started.
+21-11-28 22:09:20 	 DEBUG 	 recon_coin_listing.py - grab_price_data_all_exchanges: 	 Process started.

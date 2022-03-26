@@ -1,0 +1,10 @@
+21-11-21 23:03:36 	 DEBUG 	 comms_twitter.py - download_tweets_stream: 	 Process Started.
+21-11-21 23:03:37 	 INFO 	 comms_twitter.py - get_streaming_rules: 	 CURRENT STREAMING RULES: {'data': [{'id': '1459036422619471872', 'value': 'from:Guineve14252870'}], 'meta': {'sent': '2021-11-22T04:03:30.356Z', 'result_count': 1}}
+21-11-21 23:03:38 	 INFO 	 comms_twitter.py - delete_streaming_rules: 	 DELETING STREAMING RULES: {'meta': {'sent': '2021-11-22T04:03:31.921Z', 'summary': {'deleted': 1, 'not_deleted': 0}}}
+21-11-21 23:03:40 	 INFO 	 comms_twitter.py - set_streaming_rules: 	 SETTING STREAMING RULES: {'data': [{'value': 'from:Guineve14252870', 'id': '1462632815812567049'}], 'meta': {'sent': '2021-11-22T04:03:33.774Z', 'summary': {'created': 1, 'not_created': 0, 'valid': 1, 'invalid': 0}}}
+21-11-21 23:03:47 	 DEBUG 	 comms_twitter.py - get_stream: 	 Starting stream querying.
+21-11-28 22:09:20 	 DEBUG 	 comms_twitter.py - download_tweets_stream: 	 Process Started.
+21-11-28 22:09:20 	 INFO 	 comms_twitter.py - get_streaming_rules: 	 CURRENT STREAMING RULES: {'data': [{'id': '1462635576629379076', 'value': 'from:binance'}], 'meta': {'sent': '2021-11-29T03:09:13.190Z', 'result_count': 1}}
+21-11-28 22:09:21 	 INFO 	 comms_twitter.py - delete_streaming_rules: 	 DELETING STREAMING RULES: {'meta': {'sent': '2021-11-29T03:09:14.587Z', 'summary': {'deleted': 1, 'not_deleted': 0}}}
+21-11-28 22:09:23 	 INFO 	 comms_twitter.py - set_streaming_rules: 	 SETTING STREAMING RULES: {'data': [{'value': 'from:binance', 'id': '1465155867939164163'}], 'meta': {'sent': '2021-11-29T03:09:15.886Z', 'summary': {'created': 1, 'not_created': 0, 'valid': 1, 'invalid': 0}}}
+21-11-28 22:09:30 	 DEBUG 	 comms_twitter.py - get_stream: 	 Starting stream querying.

@@ -1,0 +1,112 @@
+{
+    "external": {
+        "infura_project_id": "227149d74a494620a72c104884fa6f97"
+    },
+    "MyLogger": {
+        "log_file_name": "Log_MyLogger.log"
+    },
+
+    "OrderClass": {
+        "log_file_name": "Log_OrderClass.log",
+        "cexs": ["binance"],
+        "dexs": ["pancakeswap"]
+    },
+
+    "OrderHandler": {
+        "log_file_name": "Log_OrderHandler.log"
+    },
+
+    "CommsBlockchainEthereum": {
+        "log_file_name": "Log_CommsBlockchainEthereum.log",
+        "nodes": {
+            "mainnet": [
+                "https://mainnet.infura.io/v3/"
+            ]
+        }
+    },
+
+    "CommsBlockchainBSC": {
+        "log_file_name": "Log_CommsBlockchainBSC.log",
+        "average_block_seconds": 3,
+        "nodes": {
+            "mainnet": [
+                "https://bsc-dataseed.binance.org/",
+                "https://bsc-dataseed1.defibit.io/",
+                "https://bsc-dataseed1.ninicoin.io/"
+            ],
+            "testnet": [
+                "https://data-seed-prebsc-1-s1.binance.org:8545/",
+                "https://data-seed-prebsc-2-s1.binance.org:8545/",
+                "https://data-seed-prebsc-1-s2.binance.org:8545/",
+                "https://data-seed-prebsc-2-s2.binance.org:8545/",
+                "https://data-seed-prebsc-1-s3.binance.org:8545/",
+                "https://data-seed-prebsc-2-s3.binance.org:8545/"
+            ]
+        }
+    },
+
+    "CommsCEXBinance": {
+        "log_file_name": "Log_CommsCEXBinance.log",
+        "apiKey": "3387UkgXE9UvGddEIjTZKWcTGUmrgo6xBDQo0zpp0C82DXU8O1rRNqTPMth1g0tA",
+        "secret": "C8CrPHMga3hUnW87CA31iAIfrTGm2VSMlKvobhwjhyshSHjWjoW9SEtI2E1YjKNX",
+        "expiry_date": "2021-12-01"
+    },
+
+    "CommsDEXUniSwapV3": {
+        "log_file_name": "Log_CommsDEXUniSwapV3.log"
+    },
+
+    "CommsDEXUniSwapV2": {
+        "log_file_name": "Log_CommsDEXUniSwapV2.log"
+    },
+
+    "CommsDEXPancakeSwapV2": {
+        "log_file_name": "Log_CommsDEXPancakeSwapV2.log"
+    },
+
+    "CommsBlockchainDataProviders":{
+        "log_file_name": "Log_CommsBlockchainDataProviders.log",
+        "urls": {
+            "coinmarketcap": "https://pro-api.coinmarketcap.com",
+            "coingecko": "https://api.coingecko.com/api/v3",
+            "bscscan": {
+                "mainnet": "https://api.bscscan.com/api",
+                "testnet": "https://api-testnet.bscscan.com/api"
+            }
+        },
+        "api_keys": {
+            "coinmarketcap": "ec677cc5-e6c9-4144-8787-78e3c0334485",
+            "bscscan": "N7GWH9TCV5CB19JJDEE4TSW1N1RVMVN83T"
+        },
+        "blockchain_name_conversion": {
+            "coingecko": {
+                "ethereum": "ethereum",
+                "binance_smart_chain": "binance-smart-chain"
+            }
+        }
+    },
+
+    "CommsTwitter": {
+        "log_file_name": "Log_CommsTwitter.log",
+        "base_url": "https://api.twitter.com/2",
+        "api_key" : "W43oH0egFrcEsuON7kSlQNVa5",
+        "api_secret_key": "1zpyNwSPsK8jmlNKokqcNF1FytfJo1jPsG5XZJpfWdCRUfvYb0",
+        "bearer_token": "AAAAAAAAAAAAAAAAAAAAAKxGTQEAAAAASByrOEJTNEqDx%2FBhWEM0%2FrKnq14%3DX2Z9hJ1edLn9H9JsDv1IrDiJhgdCdF34a5c6R1ZYCwiBhRb002",
+        "app_id": 21841580,
+        "app_name": "Clinical_Trial_Helper_Main",
+        "account_username": "Michael54926990"
+    },
+
+    "StratCoinListing": {
+        "log_file_name": "Log_StratCoinListing.log"
+    },
+
+    "ReconCoinListing": {
+        "log_file_name": "Log_ReconCoinListing.log",
+        "kill_signal": ""
+    },
+
+    "RunRecon": {
+        "log_file_name": "Log_RunRecon.log"
+    }
+}

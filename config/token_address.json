@@ -1,0 +1,22 @@
+{
+    "ethereum": {
+        "mainnet": {
+            "WBTC": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            "USDT": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+        }
+    },
+    "binance_smart_chain": {
+        "mainnet": {
+            "CAKE": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "WBNB": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "BUSD": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+            "MBOX": "0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377"
+        },
+        "testnet": {
+            "WBNB": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+            "HEDGE": "0x61d43Cf52Fb2e4245C1E66AEbC7b59B7fec4aD16",
+            "CDTC": "0x90aF3B1633E1dB67CB72d8376DE90D61747ae1d8",
+            "EBA" : "0x1E30Be6756B90A3887051d393481BbB63C99737f"
+        }
+    }
+}

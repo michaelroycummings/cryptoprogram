@@ -1,0 +1,21 @@
+{
+    "ethereum": {
+        "mainnet": {
+            "trading": "0xa8c4AC87dE6f04042eAec43cFBFFBeEa2304a246"
+        }
+    },
+    "binance_smart_chain": {
+        "mainnet": {
+            "trading": {
+                "public_key": "0x234266eddB579FF3316F0984a62c79Bb4b942c97",
+                "private_key": ""
+            }
+        },
+        "testnet": {
+            "trading": {
+                "public_key": "0x8B7aBE61fbce77D633319A4dD9891d96631A4b5B",
+                "private_key": "8158bd75ebe8f415a8c965f1392e2646a16ac44aa9f79e6f75fe489dfa63a48b"
+            }
+        }
+    }
+}
