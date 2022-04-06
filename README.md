@@ -1,4 +1,4 @@
-# Crypto Trading Program
+# New Coin Listing Trader
 
 **Development state**: *code and documentation for the below scripts are stable.*
 - `run_recon.py`
